@@ -1,4 +1,4 @@
-# # https://www.geeksforgeeks.org/problems/odd-or-even3618/1
+#  https://www.geeksforgeeks.org/problems/odd-or-even3618/1
 # time comp: O(1)
 # space comp: O(1)
 
